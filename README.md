@@ -1,6 +1,6 @@
 # C# Learning Challenges — Progress Repository
 
-This repository documents my hands-on practice while building fluency in C# and .NET fundamentals through structured coding challenges.
+This repository documents my hands-on practice building fluency in C# and .NET fundamentals through daily coding challenges.
 
 The goal is to strengthen core engineering skills through implementation, repetition, and incremental problem solving — progressing from guided learning toward independent development.
 

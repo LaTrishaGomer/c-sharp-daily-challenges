@@ -24,3 +24,5 @@ public class SplitFullName
        return (parts[0], parts[1]);
     }
 }
+
+// Exercise 2 solution

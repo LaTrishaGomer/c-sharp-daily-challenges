@@ -18,7 +18,7 @@ When I complete an exercise:
 ## 📈 Progress Snapshot
 
 - Total Challenges: **100**
-- Completed: **0 / 100**
+- Completed: **1 / 100**
 - Current Focus: **Object Thinking - classes, encapsulation, constructors**
 - Status: **Starting point — building daily fluency**
 

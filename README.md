@@ -51,7 +51,7 @@ This repository grows incrementally as concepts are learned and reinforced.
 
 ## 01. Strings & Text Processing
 
-- [ ] Coding Exercise 2: Split a full name into first and last names *(Strings)*
+- [x] Coding Exercise 2: Split a full name into first and last names *(Strings)*
 - [ ] Coding Exercise 3: Count character frequencies in a string *(Counting)*
 - [ ] Coding Exercise 9: Check if a string is a palindrome *(Strings)*
 - [ ] Coding Exercise 16: Format text with custom styles *(Formatting)*

@@ -19,7 +19,7 @@ The exercises emphasize practical string operations commonly used in real-world 
 
 | Status | Exercise | Description |
 |--------|----------|-------------|
-| ⏳ | 002 | Split full name into first and last names |
+| ✅ | 002 | Split full name into first and last names |
 | ⏳ | 003 | Count character frequencies in a string |
 | ⏳ | 009 | Check if a string is a palindrome |
 | ⏳ | 016 | Format text with custom styles |

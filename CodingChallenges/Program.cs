@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CodingChallenges;
+
+var result = SplitFullName.SplitName("Ada Lovelace");
+
+Console.WriteLine(result.firstName);
+Console.WriteLine(result.lastName);

@@ -13,13 +13,14 @@ Input: "Ada Lovelace"
 Output: ("Ada", "Lovelace")
 */
 
-namespace CodingChallenges.StringsTextProcessing;
+namespace CodingChallenges;
 
 public class SplitFullName
 {
-    public static (string firstName, string lastName) Run(string fullName)
+    public static (string firstName, string lastName) SplitName (string fullName)
     {
-        // TODO: implement
-        throw new NotImplementedException();
+       var parts = fullName.Split(' ');
+
+       return (parts[0], parts[1]);
     }
 }

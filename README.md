@@ -4,6 +4,8 @@ This repository documents my hands-on practice building fluency in C# and .NET f
 
 The goal is to strengthen core engineering skills through implementation, repetition, and incremental problem solving — progressing from guided learning toward independent development.
 
+## Source
+
 These exercises are based on the Udemy course **"C# — 100 Coding Exercises" by Krystyna Ślusarczyk**.  
 The numbering of the challenges in this repository follows the original course exercise numbers.
 

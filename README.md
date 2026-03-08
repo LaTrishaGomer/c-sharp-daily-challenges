@@ -23,7 +23,7 @@ When I complete an exercise:
 ## 📈 Progress Snapshot
 
 - Total Challenges: **100**
-- Completed: **2 / 100**
+- Completed: **3 / 100**
 - Current Focus: **Object Thinking - classes, encapsulation, constructors**
 - Status: **Starting point — building daily fluency**
 
@@ -58,7 +58,7 @@ This repository grows incrementally as concepts are learned and reinforced.
 
 - [x] Coding Exercise 2: Split a full name into first and last names *(Strings)*
 - [x] Coding Exercise 3: Count character frequencies in a string *(Counting)*
-- [ ] Coding Exercise 9: Check if a string is a palindrome *(Strings)*
+- [x] Coding Exercise 9: Check if a string is a palindrome *(Strings)*
 - [ ] Coding Exercise 16: Format text with custom styles *(Formatting)*
 - [ ] Coding Exercise 17: Read a string until the end marker *(Parsing)*
 - [ ] Coding Exercise 29: Unique task identifier with string formatting *(Formatting)*

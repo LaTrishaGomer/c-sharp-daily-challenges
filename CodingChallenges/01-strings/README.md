@@ -21,7 +21,7 @@ The exercises emphasize practical string operations commonly used in real-world 
 |--------|----------|-------------|
 | ✅ | 002 | Split full name into first and last names |
 | ✅ | 003 | Count character frequencies in a string |
-| ⏳ | 009 | Check if a string is a palindrome |
+| ✅ | 009 | Check if a string is a palindrome |
 | ⏳ | 016 | Format text with custom styles |
 | ⏳ | 017 | Read a string until an end marker |
 | ⏳ | 029 | Generate unique task identifier using string formatting |

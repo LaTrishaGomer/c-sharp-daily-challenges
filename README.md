@@ -24,7 +24,7 @@ When I complete an exercise:
 
 - Total Challenges: **100**
 - Completed: **3 / 100**
-- Current Focus: **Object Thinking - classes, encapsulation, constructors**
+- Current Focus: **Strings & Text Processing**
 - Status: **Starting point — building daily fluency**
 
 This repository grows incrementally as concepts are learned and reinforced.

@@ -8,3 +8,12 @@ Practice:
 - Iteration
 - Dictionaries
 */
+
+
+namespace CodingChallenges
+{
+    public class CharFrequency
+    {
+        
+    }
+}
